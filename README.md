@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eshanchandra you can call me Eshan. 
-- 👀 I’m interested in Programming,Machine Learning and Analysis.
-- 🌱 I’m currently learning Machine Learning.  
+- 👀 I’m interested in Programming and Analysis.
+- 🌱 I’m currently learning bunch of things like ML,IOT.  
 - 💞️ I’m looking to be a part of big organisation where i can get exposure to learn and grow.
 - 📫 How to reach me Email me at eshanchandra99@gmail.com I'll be happy to help.
 
